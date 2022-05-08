@@ -1,4 +1,4 @@
 # POP
-Experimental Repo for Lab Automation a
+Experimental Repo for Lab Automation. A translation from a work platform
 
-This line was added through a pull request > merge process
+
